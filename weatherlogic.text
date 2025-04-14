@@ -1,0 +1,10 @@
+1. Import requests
+2. Define your API key and base URL
+3. Take city name as input
+4. Sending  a GET request to the API with the city and API key
+5. Convert the JSON response to a dictionary
+6. If city found:
+     - Extract weather data: temp, description, humidity, etc.
+     - Print nicely
+   Else:
+     - Print "City not found"
