@@ -1,0 +1,7 @@
+at First we need to install the package of requests ..
+so we need to create a venv (virtual environment ) in our folder lets's see how its' done.
+at first  we need to open terminal and write this code .....
+                        python - m venv myvenv >>
+
+
+Use this step and run you code it will give you the output you want.
